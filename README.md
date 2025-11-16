@@ -13,7 +13,7 @@ SOFTWARE REQUIRED:
 6.	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
-## CIRCUIT DIAGRAM: Inverting amplifier: 
+## CIRCUIT DIAGRAM: Inverting amplifier: b
 
 ## GRAPH: Inverting amplifier: 
 
